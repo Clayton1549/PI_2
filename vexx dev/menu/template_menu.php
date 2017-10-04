@@ -8,7 +8,7 @@
 		<li><a href="Usario">Usuario</a></li>
 		<li><a href="Categoria">Categoria</a></li>
 		<li><a href="Produto">Produto</a></li>
-		<li><a href="\o\index.php">Sair</a></li>
+		<li><a href="vexx_dev\index.php">Sair</a></li>
 </ul>
 	
 	</body>
