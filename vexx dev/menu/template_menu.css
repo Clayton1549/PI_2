@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+		*{
+			padding: 0;
+			margin: 0;
+			box-sizing: border-box;
+		 }
+		
+		body
+		{
+			background-image: url('fundo.png');
+			
+		}
+		
+	ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #002244;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #69BE28;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #69BE28;
+	color:#002244;
+}
